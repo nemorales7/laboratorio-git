@@ -15,6 +15,6 @@ int main(){
         	archivoSalida << linea;
     }
     cout<<"Archivo copiado correctamente"<<endl;
-}
+	}
 }
 
